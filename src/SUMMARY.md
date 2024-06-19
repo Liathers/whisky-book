@@ -83,6 +83,7 @@
   - [NecroVisioN: Lost Company](./game-support/necrovision-lost-company.md)
   - [NecroVision](./game-support/necrovision.md)
   - [Neon White](./game-support/neon-white.md)
+  - [NIMBY Rails](./game-support/nimby-rails.md)
   - [Overwatch 2](./game-support/overwatch-2.md)
   - [Persona 3 Reload](./game-support/p3r.md)
   - [Persona 4 Golden](./game-support/p4g.md)
